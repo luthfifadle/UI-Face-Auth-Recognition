@@ -1,4 +1,4 @@
-<p align="center"><a href="https://react.dev" target="_blank"<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="400" /></a></p>
+<p align="center"><a href="https://react.dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="400" /></a></p>
 
 # Getting Started with Create React App
 
